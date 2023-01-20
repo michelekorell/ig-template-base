@@ -1,5 +1,5 @@
 ﻿{
-  "name" : "fhir.base.template",
+  "name" : "mk.fhir.base.template",
   "type" : "fhir.template",
   "license" : "CC0-1.0",
   "description" : "FHIR IG Base Template - foundational for use by anyone",
